@@ -1,4 +1,4 @@
-# tooltips-clip-path
+# Clip-path Tooltips
  
 In my opinion these tooltips look good in their actual size.
 
